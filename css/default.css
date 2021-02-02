@@ -8591,7 +8591,7 @@ fieldset[disabled] .select select:hover {
   }
   .column.is-4-widescreen {
     flex: none;
-    width: 33.33333%;
+    width: 23.33333%;
   }
   .column.is-offset-4-widescreen {
     margin-left: 33.33333%;
@@ -8619,7 +8619,7 @@ fieldset[disabled] .select select:hover {
   }
   .column.is-8-widescreen {
     flex: none;
-    width: 66.66667%;
+    width: 76.66667%;
   }
   .column.is-offset-8-widescreen {
     margin-left: 66.66667%;
@@ -11615,14 +11615,14 @@ figure.highlight .section {
 @media screen and (min-width: 1280px) {
   .is-1-column .container,
   .is-2-column .container {
-    max-width: 960px;
-    width: 960px;
+    max-width: 85%;
+    width: 85%;
   }
 }
 @media screen and (min-width: 1472px) {
   .is-2-column .container {
-    max-width: 1152px;
-    width: 1152px;
+    max-width: 85%;
+    width: 85%;
   }
   .is-1-column .container {
     max-width: 960px;
